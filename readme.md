@@ -20,7 +20,8 @@ This project is a simple **Chatbot UI using Streamlit** that keeps track of chat
     cd LangGraph_ChatBot 
 ```
 2. Install the required packages:
-```    pip install requirements.txt
+```    
+    pip install requirements.txt
 ```
 3. Setup the Google gemini key:
 ```    
