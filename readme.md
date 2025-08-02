@@ -15,10 +15,10 @@ This project is a simple **Chatbot UI using Streamlit** that keeps track of chat
 
 ## 🔧 How to Run
 1. Clone the repository:
-'''
+```
     git clone https://github.com/PrinceChauhanhub/LangGraph_ChatBot.git
 
-    cd LangGraph_ChatBot'''
+    cd LangGraph_ChatBot```
 2. Install the required packages:
     pip install requirements.txt
 
