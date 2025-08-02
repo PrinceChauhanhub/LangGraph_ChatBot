@@ -17,21 +17,20 @@ This project is a simple **Chatbot UI using Streamlit** that keeps track of chat
 1. Clone the repository:
 ```
     git clone https://github.com/PrinceChauhanhub/LangGraph_ChatBot.git
-
-    cd LangGraph_ChatBot```
+    cd LangGraph_ChatBot 
+```
 2. Install the required packages:
-    pip install requirements.txt
-
+```    pip install requirements.txt
+```
 3. Setup the Google gemini key:
-    
-    Create a file .env
-    
+```    
+    Create a file .env 
     Put your Google Gemini API Key as : GOOGLE_API_KEY = <Your key>
-
+```
 4. Run the Streamlit App:
-    
+```    
     streamlit run streamlit_frontent.py
-
+```
 5. Open your browser and start chatting!
 
 ## 📝 How it Works
