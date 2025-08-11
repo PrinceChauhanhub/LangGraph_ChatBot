@@ -4,3 +4,4 @@ langchain-google-genai
 dotenv
 pydantic
 streamlit
+langgraph-checkpoint-sqlite
