@@ -7,6 +7,7 @@ from langgraph.graph.message import add_messages
 from langgraph.checkpoint.sqlite import SqliteSaver
 import sqlite3
 
+
 load_dotenv()
 llm = ChatGoogleGenerativeAI(model = "gemini-1.5-flash")
 
